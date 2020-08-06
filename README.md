@@ -1,4 +1,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=take-2405)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeitaOsaki&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeitaOsaki" />
+</a>
 
 <!--
 **take-2405/take-2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
