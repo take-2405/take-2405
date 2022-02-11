@@ -3,13 +3,35 @@
 - 公立はこだて未来大学/システム情報科学部/情報システムコース
 - バックエンドをメインに勉強中
 
+### Blog👀
+- [Qiita](https://qiita.com/QT21-004-2_HCB "Qiita My Page")
+- [はてなブログ](https://take2405-first.hatenablog.com/ "hatena blog's My page")
 
 # Activities
-- 所属大学の学生を対象としたハッカソンの企画・運営
-- 2021 U-22プログラミングコンテスト上位37作品に選出
-- ハックツハッカソンブラキオカップ優勝
+- 2021/12　所属大学の学生を対象としたハッカソンの企画・運営  
+[ハッカソンHP](https://sites.google.com/view/smile-hackathon "Smile Hackathon Page")  
+[[ブログ]ハッカソンの企画・運営についてまとめた記事](https://take2405-first.hatenablog.com/entry/2021/12/19/023324 "My Learn By Smile Hackathon")
+
+- 2021/10 2021 U-22プログラミングコンテスト上位37作品に選出  
+[U-22プログラミングコンテスト結果](https://u22procon.com/report/ "U-22 Programming Contest Page")  
+[[ブログ]U-22プログラミングコンテスト参加についてまとめた記事](https://take2405-first.hatenablog.com/entry/2021/10/13/023004 "My Learn By U-22 Programming Contest") 
+
+- 2021/3 ハックツハッカソンブラキオカップ優勝  
+[ハックツハッカソンについて](https://cup.hackz.team/brachio/ "Hacks Hackathon Page")  
+[[ブログ]ハックツハッカソンについてまとめた記事](https://take2405-first.hatenablog.com/entry/2021/04/04/220821 "My Learn By Hackathon") 
 
 # Products
+#### Team Products
+- PR-Card  
+PV：https://youtu.be/aTRJutAX4OU  
+Overview：[[ブログ]ハックツハッカソンについてまとめた記事](https://take2405-first.hatenablog.com/entry/2021/04/04/220821 "My Learn By Hackathon") 
+
+- Focus Box  
+PV：https://youtu.be/aPUW6i975N8  
+Overview：[[ブログ]U-22プログラミングコンテスト参加についてまとめた記事](https://take2405-first.hatenablog.com/entry/2021/10/13/023004 "My Learn By U-22 Programming Contest") 
+
+#### My Products
+- Bit Board
 
 # Git Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
