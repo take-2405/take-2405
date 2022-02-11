@@ -31,7 +31,9 @@ PV：https://youtu.be/aPUW6i975N8
 Overview：[[ブログ]U-22プログラミングコンテスト参加についてまとめた記事](https://take2405-first.hatenablog.com/entry/2021/10/13/023004 "My Learn By U-22 Programming Contest") 
 
 #### My Products
-- Bit Board
+- Bit Board　  
+[[動作確認]Bit Board](http://www.takerver.com/#/ "Bit Board") 
+
 
 # Git Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
