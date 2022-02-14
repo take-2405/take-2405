@@ -32,7 +32,10 @@ Overview：[[ブログ]U-22プログラミングコンテスト参加につい�
 
 #### My Products
 - Bit Board　  
-[[動作確認]Bit Board](https://www.takerver.com/#/ "Bit Board") 
+  動作確認を行う前にOverviewを一読いただけると幸いです  
+  アカウントを作成する場合は、普段使用しているような情報ではなく、適当なものを入力してください  
+**Overview**：https://docs.google.com/presentation/d/12tdWm8NSrKRQYrfaNIBJZPcHrB9pyjkK472vfQSZ2hg/edit?usp=sharing  
+**[動作確認]**：[Bit Board](https://www.takerver.com/#/ "Bit Board") 
 
 
 # Git Stats
