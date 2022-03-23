@@ -3,6 +3,8 @@
 - 公立はこだて未来大学/システム情報科学部/情報システムコース
 - バックエンドをメインに勉強中
 
+インターン参加履歴など：https://www.wantedly.com/id/taketo_wakamatsu
+
 ### Blog👀
 - [Qiita](https://qiita.com/QT21-004-2_HCB "Qiita My Page")
 - [はてなブログ](https://take2405-first.hatenablog.com/ "hatena blog's My page")
