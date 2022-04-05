@@ -1,7 +1,8 @@
 # About me
 - 若松　丈人
-- 公立はこだて未来大学/システム情報科学部/情報システムコース
+- 公立はこだて未来大学　大学院 情報アーキテクチャ領域 M1
 - バックエンドをメインに勉強中
+- 大規模な分散システムを支える技術／動画配信周りに興味があります
 
 インターン参加履歴など：https://www.wantedly.com/id/taketo_wakamatsu
 
@@ -37,7 +38,7 @@ Overview：[[ブログ]U-22プログラミングコンテスト参加につい�
 #### My Products
 - Bit Board　  
   動作確認を行う前にOverviewを一読いただけると幸いです  
-  アカウントを作成する場合は、普段使用しているような情報ではなく、適当なものを入力してください  
+  アカウントを作成する場合は、適当なものを入力してください  
 **Overview**：https://docs.google.com/presentation/d/12tdWm8NSrKRQYrfaNIBJZPcHrB9pyjkK472vfQSZ2hg/edit?usp=sharing  
 **[動作確認]**：[Bit Board](https://www.takerver.com/#/ "Bit Board") 
 
