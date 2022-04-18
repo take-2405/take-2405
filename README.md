@@ -4,8 +4,8 @@
 - バックエンドをメインに勉強中
 - 大規模な分散システムを支える技術／動画配信周りに興味があります
 
-### 
-インターン参加履歴など：https://www.wantedly.com/id/taketo_wakamatsu
+### インターン参加履歴など
+https://www.wantedly.com/id/taketo_wakamatsu
 
 ### Blog👀
 - [Qiita](https://qiita.com/QT21-004-2_HCB "Qiita My Page")
