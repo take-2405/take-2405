@@ -10,6 +10,7 @@ https://www.wantedly.com/id/taketo_wakamatsu
 ### Blog👀
 - [Qiita](https://qiita.com/QT21-004-2_HCB "Qiita My Page")
 - [はてなブログ](https://take2405-first.hatenablog.com/ "hatena blog's My page")
+- [Note](https://note.com/wkmtake)
 
 # Activities
 - 2021/12　所属大学の学生を対象としたハッカソンの企画・運営  
