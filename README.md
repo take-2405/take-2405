@@ -8,7 +8,7 @@
 https://www.wantedly.com/id/taketo_wakamatsu
 
 ### Blog👀
-- [Qiita](https://qiita.com/QT21-004-2_HCB "Qiita My Page")
+- [Qiita](https://qiita.com/Waka0830 "Qiita My Page")
 - [はてなブログ](https://take2405-first.hatenablog.com/ "hatena blog's My page")
 - [Note](https://note.com/wkmtake)
 
