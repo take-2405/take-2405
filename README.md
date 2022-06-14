@@ -1,8 +1,6 @@
 # About me
 - 若松　丈人
 - 公立はこだて未来大学　大学院 情報アーキテクチャ領域 M1
-- バックエンドをメインに勉強中
-- 大規模な分散システムを支える技術／動画配信周りに興味があります
 
 ### My Info
 - [Wantedly](https://www.wantedly.com/id/taketo_wakamatsu)
@@ -30,7 +28,9 @@ Overview：[[ブログ]U-22プログラミングコンテスト参加につい�
 
 # Git Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=take-2405&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=take-2405&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=take-2405&theme=solarized&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=take-2405&theme=solarized)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=take-2405&count_private=true&show_icons=true" />
