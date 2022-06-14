@@ -1,8 +1,9 @@
 # About me
+### Basic Info
 - 若松　丈人
 - 公立はこだて未来大学　大学院 情報アーキテクチャ領域 M1
 
-### My Info
+### Outputs
 - [Wantedly](https://www.wantedly.com/id/taketo_wakamatsu)
 - [Qiita](https://qiita.com/Waka0830 "Qiita My Page")
 - [はてなブログ](https://take2405-first.hatenablog.com/ "hatena blog's My page")
