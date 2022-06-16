@@ -1,7 +1,6 @@
 # About me
 ### Basic Info
-- 若松　丈人
-- 公立はこだて未来大学　大学院 情報アーキテクチャ領域 M1
+- わかまつ　　たけと
 
 ### Outputs
 - [Wantedly](https://www.wantedly.com/id/taketo_wakamatsu)
