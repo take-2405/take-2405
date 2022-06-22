@@ -1,6 +1,8 @@
 # About me
 ### Basic Info
-- わかまつ　　たけと
+- 若松丈人
+- 公立はこだて未来大学大学院 M1
+- 函館市在住
 
 ### Outputs
 - [Wantedly](https://www.wantedly.com/id/taketo_wakamatsu)
