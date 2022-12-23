@@ -1,15 +1,11 @@
 # About me
-### Basic Info
-- 若松丈人
-- 公立はこだて未来大学大学院 M1
-- 函館市在住
+- Name : Taketo Wakamatsu
+- Birthday : 1999/08/30
 
-### Outputs
+#### Others
 - [Wantedly](https://www.wantedly.com/id/taketo_wakamatsu)
 - [Qiita](https://qiita.com/Waka0830 "Qiita My Page")
-- [はてなブログ](https://take2405-first.hatenablog.com/ "hatena blog's My page")
-- [Note](https://note.com/wkmtake)
-
+<!-- 
 # Products
 #### Team Products
 - PR-Card  
@@ -27,11 +23,11 @@ Overview：[[ブログ]U-22プログラミングコンテスト参加につい�
 **Overview**：https://docs.google.com/presentation/d/12tdWm8NSrKRQYrfaNIBJZPcHrB9pyjkK472vfQSZ2hg/edit?usp=sharing  
 **[動作確認]**：[Bit Board](https://www.takerver.com/#/ "Bit Board") or  http://takerver.com/#/
 
-
+ -->
 # Git Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=take-2405&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=take-2405&theme=solarized&utcOffset=8)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=take-2405&theme=solarized) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=take-2405&theme=solarized&utcOffset=8) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=take-2405&theme=solarized)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
