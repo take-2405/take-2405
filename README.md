@@ -22,17 +22,4 @@ Overview：[[ブログ]U-22プログラミングコンテスト参加につい�
   アカウントを作成する場合は、適当なものを入力してください  
 **Overview**：https://docs.google.com/presentation/d/12tdWm8NSrKRQYrfaNIBJZPcHrB9pyjkK472vfQSZ2hg/edit?usp=sharing  
 **[動作確認]**：[Bit Board](https://www.takerver.com/#/ "Bit Board") or  http://takerver.com/#/
-
- -->
-# Git Stats
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=take-2405&theme=solarized) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=take-2405&theme=solarized&utcOffset=8) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=take-2405&theme=solarized)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=take-2405&count_private=true&show_icons=true" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=take-2405" />
-</a> -->
+-->
